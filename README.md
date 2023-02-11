@@ -59,7 +59,7 @@ O target deve ser "host.docker.internal:" + [porta_da_sua_aplicação]
 
     senha: admin
 
-## 5. Configurar Datasource do Prometheus no Grafana para viabilizar criação Dashboards:
+## 5. Configurar Datasource do Prometheus no Grafana para viabilizar criação de Dashboards:
 1. Menu lateral > Configuration > Data sources
 
 2. Clicar em "Add data source"
