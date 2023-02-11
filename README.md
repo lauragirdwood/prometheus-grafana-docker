@@ -38,7 +38,7 @@ Trecho do arquivo que configura o container do Prometheus para ouvir a aplicaç�
       scrape_interval: 5s
       static_configs:
        - targets: ['host.docker.internal:8085']
-Job name deve ser o nome da sua aplicação para ser identificada no Prometheus
+Job name deve ser o nome da sua aplicação para ser identificada no Prometheus (no caso da minha API o nome é "filmes")
 
 O target deve ser "host.docker.internal:" + [porta_da_sua_aplicação]
 
