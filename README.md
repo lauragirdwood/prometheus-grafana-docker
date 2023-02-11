@@ -1,4 +1,4 @@
-# Prometheus e Grafana para rodar em ambiente Docker Local
+# Prometheus e Grafana para rodar em ambiente Local com Docker
 
 ## Pré-requisitos mínimos:
 - Docker instalado
