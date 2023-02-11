@@ -30,7 +30,7 @@
 
 Caminho do arquivo de configuração do Prometheus:
 
-``cd prometheus-grafana/prometheus-data/prometheus.yml``
+``prometheus-grafana/prometheus-data/prometheus.yml``
 
 Trecho do arquivo que configura o container do Prometheus para ouvir a aplicação:
 
