@@ -2,7 +2,7 @@
 
 ## Pré-requisitos mínimos:
 - Docker instalado
-- Aplicação Spring Boot subindo com as seguintes dependências:
+- Aplicação Spring Boot subindo em alguma IDE com as seguintes dependências:
   
         <dependency>
            <groupId>org.springframework.boot</groupId>
