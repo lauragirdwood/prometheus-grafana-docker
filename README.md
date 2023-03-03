@@ -66,7 +66,7 @@ O target deve ser "host.docker.internal:" + [porta_da_sua_aplicação]
 
 3. Selecionar "Prometheus" como "type"
 
-4. Inserir URL do container do Prometheus ``http://host.docker.internal:9090``
+4. Inserir URL do container do Prometheus ``http://prometheus:9090`` ou ``http://host.docker.internal:9090``
 
 5. Clicar em "Save and Test"
 
